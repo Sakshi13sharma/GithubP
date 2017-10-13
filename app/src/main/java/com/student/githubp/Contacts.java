@@ -1,8 +1,5 @@
 package com.student.githubp;
 
-/**
- * Created by Rahul Bhardwaj on 5/3/2016.
- */
 public class Contacts {
     private String name,img;
 
